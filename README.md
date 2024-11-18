@@ -6,7 +6,7 @@ This repository contains an end-to-end data analysis project for a Bike Store, u
 This project showcases the entire data analysis process for a bike store, from database creation and data extraction to visualization. Key activities include:
 
 - Creating Databases: Production database containing information on brands, categories, products, and stores.
-Sales database containing details about staff, order items, customers, orders, and stores.
+                      Sales database containing details about staff, order items, customers, orders, and stores.
 
 -SQL Queries: Writing SQL queries to extract and create insightful tables that provide meaningful analysis.
 
