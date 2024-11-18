@@ -4,15 +4,15 @@ This repository contains an end-to-end data analysis project for a Bike Store, u
 
 # ***Project Overview***
 This project showcases the entire data analysis process for a bike store, from database creation and data extraction to visualization. Key activities include:
+### Creating Databases: 
+- Production database containing information on brands, categories, products, and stores.
+- Sales database containing details about staff, order items, customers, orders, and stores.
 
-- Creating Databases: Production database containing information on brands, categories, products, and stores.
-                      Sales database containing details about staff, order items, customers, orders, and stores.
+- SQL Queries: Writing SQL queries to extract and create insightful tables that provide meaningful analysis.
 
--SQL Queries: Writing SQL queries to extract and create insightful tables that provide meaningful analysis.
+- Excel Integration: Using ODBC to connect MySQL to MS Excel, importing data, and creating pivot tables for a dynamic, interactive dashboard.
 
--Excel Integration: Using ODBC to connect MySQL to MS Excel, importing data, and creating pivot tables for a dynamic, interactive dashboard.
-
--Power BI Visualization: Importing data from Excel into Power BI to create a different, more interactive dashboard with advanced visualization tools.
+- Power BI Visualization: Importing data from Excel into Power BI to create a different, more interactive dashboard with advanced visualization tools.
 
 
 # ***Data Sources***
