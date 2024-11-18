@@ -24,19 +24,19 @@ The project relies on two main datasets:
 ### Production Database:
 Contains information about:
 
-Brands
-Categories
-Products
-Stores
+- Brands
+- Categories
+- Products
+- Stores
 
 ### Sales Database:
 Contains information about:
 
-Staff
-Order Items
-Orders
-Customers
-Stores
+- Staff
+- Order Items
+- Orders
+- Customers
+- Stores
 These databases are built with realistic data to reflect various aspects of the bike store’s operations.
 
 
