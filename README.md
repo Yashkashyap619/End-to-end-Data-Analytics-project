@@ -76,7 +76,7 @@ Interactive filtering of data by customer demographics, product categories, and 
 
 
 # ***How to Use***
-###Clone this repository:
+### Clone this repository:
 
 1. Copy code
 git clone https://github.com/yourusername/bike-store-data-analysis.git
