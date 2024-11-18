@@ -75,6 +75,27 @@ Deeper insights into the performance of stores and staff with slicers and filter
 Interactive filtering of data by customer demographics, product categories, and order details.
 
 
+# ***How to Use***
+###Clone this repository:
+
+1. Copy code
+git clone https://github.com/yourusername/bike-store-data-analysis.git
+
+2. MySQL Setup:
+Set up MySQL and create the Production and Sales databases with the provided schema and data.
+Use the SQL queries provided in the project to generate insightful tables.
+
+3. Excel Dashboard:
+Open the BikeStore_Analysis.xlsx file.
+Refresh the data connections (ODBC) to pull in data from MySQL.
+Explore the pivot tables and charts for a dynamic view of the data.
+
+4. Power BI Dashboard:
+Open the BikeStore_Analysis.pbix Power BI file.
+Ensure the data is refreshed from the Excel file.
+Explore the interactive visualizations and dashboards.
+
+
 # ***Screenshots***
 (Include screenshots of key visualizations and dashboards from MS Excel and Power BI and also a MySQL Query for creating table.)
 
