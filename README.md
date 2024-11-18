@@ -75,6 +75,19 @@ Deeper insights into the performance of stores and staff with slicers and filter
 Interactive filtering of data by customer demographics, product categories, and order details.
 
 
+# ***Screenshots***
+(Include screenshots of key visualizations and dashboards from MS Excel and Power BI and also a MySQL Query for creating table.)
+
+### SQL Query
+![MySQL Query](https://github.com/user-attachments/assets/4f815b86-b86b-478e-969a-68e65daab49d)
+
+### EXCEL Dashboard
+![Excel Dashboard](https://github.com/user-attachments/assets/93c9378f-4cf4-4856-b325-b1f0e15ba89f)
+
+### POWER BI Dashboard
+![Power BI Dashboard](https://github.com/user-attachments/assets/4f3a146d-05cf-4685-ac61-a867454f9560)
+
+
 # ***Acknowledgments***
 Data Source: Synthetic data generated for the purpose of this analysis.
 Tools Used:
