@@ -97,7 +97,6 @@ Explore the interactive visualizations and dashboards.
 
 
 # ***Screenshots***
-(Include screenshots of key visualizations and dashboards from MS Excel and Power BI and also a MySQL Query for creating table.)
 
 ### SQL Query
 ![MySQL Query](https://github.com/user-attachments/assets/4f815b86-b86b-478e-969a-68e65daab49d)
